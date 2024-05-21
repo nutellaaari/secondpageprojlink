@@ -62,3 +62,15 @@ img {
     background-color: #7F7871;
     border-color: #7F7871;
 }
+
+footer {
+    background-color: #ac846d;
+    color: #ffff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.footer-content p {
+    margin: 0;
+    font-size: 10px;
+}
